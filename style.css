@@ -17,11 +17,13 @@ nav{
     z-index: 1;
 }
 .num{
-    background-color: white;
+    background-color: #ffffff;
     border-radius: 100px;
     font-weight:bold;
     padding: 10px 15px;
     margin-right:7px;
+    text-decoration: none;
+    text-align: center;
 }
 .contenitore img{
     width: 500px;
@@ -88,3 +90,9 @@ nav{
     content: "";
 }
 
+.num:hover{
+    box-shadow: 2px 2px 4px #000000;
+}
+nav div{
+    display: inline-block;
+}
