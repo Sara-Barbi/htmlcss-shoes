@@ -44,7 +44,9 @@ nav{
     width: 500px;
     transform: translate(-50%, 130%);
     line-height: 46px;
-    font-size: 20px;
+    font-size: 25px;
+    font-family: Alfa Slab One, arial;
+    color: yellow;
 }
 .container{
     width: 100vw;
